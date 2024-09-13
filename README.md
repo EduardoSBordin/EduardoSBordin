@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/eduardobordin.bsky.social)
 [![Twitter](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardobordin.netlify.app/)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosbordin&show_icons=true&theme=theme=transparent&locale=pt-br)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosbordin&show_icons=true&theme=transparent&locale=pt-br&title_color=47FFE5&text_color=47FFE5&icon_color=47FFE5&border_color=47FFE5)
 
 ### Tecnologias que utilizo e que estou aprendendo no meu dia.
 
@@ -22,4 +22,4 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbordin&layout=donut&locale=pt-br)](https://github.com/eduardosbordin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbordin&layout=donut&locale=pt-br&theme=transparent&title_color=9AD2FF&text_color=9AD2FF&border_color=9AD2FF)](https://github.com/eduardosbordin/github-readme-stats)
