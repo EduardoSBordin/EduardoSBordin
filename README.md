@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/eduardobordin.bsky.social)
 [![Twitter](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardobordin.netlify.app/)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosbordin&show_icons=true&theme=dracula&locale=pt-br)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosbordin&show_icons=true&theme=theme=transparent&locale=pt-br)
 
 ### Tecnologias que utilizo e que estou aprendendo no meu dia.
 
