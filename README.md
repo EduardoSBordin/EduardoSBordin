@@ -20,4 +20,4 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbordin&layout=donut&locale=pt-br&theme=transparent&title_color=5094f0&text_color=5094f0&border_color=5094f0)](https://github.com/eduardosbordin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbordin&layout=donut&locale=en-usa&theme=transparent&title_color=5094f0&text_color=5094f0&border_color=5094f0)](https://github.com/eduardosbordin/github-readme-stats)
